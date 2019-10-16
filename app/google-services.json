@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "829354161711",
+    "firebase_url": "https://chatchat-5c863.firebaseio.com",
+    "project_id": "chatchat-5c863",
+    "storage_bucket": "chatchat-5c863.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829354161711:android:f1bf5013d8a87cb599b8da",
+        "android_client_info": {
+          "package_name": "com.example.patpatchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829354161711-8herte1mq3pked3r6fb8ke62am0jeub7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.patpatchat",
+            "certificate_hash": "4b48be56e2b53e507c2736fd90455a96f7b676d4"
+          }
+        },
+        {
+          "client_id": "829354161711-ab74d6r22ioit5g8fvns8d76c8ced5o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtSpTZDYKYps4roooRq4q4EkRPc7kZy8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829354161711-ab74d6r22ioit5g8fvns8d76c8ced5o7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "829354161711-abdh28l77v1d8l2digkqtdobndeci5of.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "AppleDeveloperAcademyBinus.ChatChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
